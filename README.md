@@ -139,6 +139,7 @@ It covers packet-level implementation, routing-path discovery, raw socket handli
 - The web server is intentionally minimal.
 - The proxy supports simple HTTP traffic, not HTTPS.
 - Cache invalidation and advanced HTTP headers are not handled.
+- This project is intended for local educational use only. The web server and proxy are intentionally minimal and are not hardened for public internet deployment. Only run the networking tools against systems or networks you own or have permission to test.
 
 ## File Summary
 
