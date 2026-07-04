@@ -147,3 +147,11 @@ It covers packet-level implementation, routing-path discovery, raw socket handli
 The script defines a shared `NetworkApplication` base class and implements `ICMPPing`, `Traceroute`, `MultiThreadedTraceRoute`, `WebServer` and `Proxy`.
 
 Each tool is launched from the command line using its matching subcommand.
+
+## Usage Notice
+
+This repository is provided for portfolio and review purposes only.
+
+All rights are reserved. No permission is granted to copy, redistribute, submit, or reuse this work, in whole or in part, for academic coursework, assessment, or commercial purposes.
+
+Where this repository relates to university coursework, it is shared only to demonstrate my own technical work and should not be used by other students as a submission or solution.
